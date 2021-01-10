@@ -1,2 +1,1 @@
-vadergubben.github.io
-vadergubben.github.io/index.html
+http://vadergubben.github.io/index.html
